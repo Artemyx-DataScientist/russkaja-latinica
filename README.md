@@ -16,7 +16,8 @@
 ## Документы
 
 - [SPECIFICATION.md](SPECIFICATION.md) — правила орфографии.
-- [SKILL.md](SKILL.md) — инструкции для языковых моделей и AI-агентов.
+- [SKILL.md](SKILL.md) — прямой файл инструкций для языковых моделей.
+- [skills/russian-latin/](skills/russian-latin/SKILL.md) — пакет в структуре Agent Skills.
 - [examples/TEST_CASES.md](examples/TEST_CASES.md) — примеры и контрольные случаи.
 
 ## Основные решения
